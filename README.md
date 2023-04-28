@@ -1,2 +1,2 @@
-# scorch-in-erekir
-a mindustry texture pack that converts scorch (and duo) into erekir
+# chaotican technologys
+texture pack that changes stuff
